@@ -2,9 +2,7 @@
 
 # 🛰️ Project: The System Design of Life (v21.0)
 
-**The Logic:** 
-
-Life isn't a series of random accidents. It is a fair, purposeful "Operating System" built to help you upgrade your character and find the truth.
+**The Logic:** Life isn't a series of random accidents. It is a fair, purposeful "Operating System" built to help you upgrade your character and find the truth.
 
 ---
 
@@ -14,11 +12,11 @@ Life isn't a series of random accidents. It is a fair, purposeful "Operating Sys
 ---
 
 ### 🗺️ Visual Framework
-![System Design of Life Framework](SystemLogic.png)
+![System Design of Life Framework](system_design_of_life.png)
 
 ---
 
-### The "Singapore Simple" Summary
+### 🇸🇬 The "Singapore Simple" Summary
 > **In short:** Life isn't about being lucky or unlucky (**heng or suay**). It’s a system built to help you level up your heart and find the real **Source Code** of why we are here.
 
 ---
@@ -66,4 +64,11 @@ To find the **"Gold Master"** file of truth, look for the system with:
 
 ---
 
-📢 **Final Note:** This project was developed using a structured logic approach for my portfolio. I used AI to help organize and refine these personal observations into this technical framework.
+### 🚀 How to Run the Analysis
+To see this logic run as a structured script, follow these steps:
+
+1. **Prerequisites:** Ensure you have [Python 3](https://www.python.org/downloads/) installed.
+2. **Download:** Save the `system_design_of_life.py` file to your computer.
+3. **Execute:** Open your Terminal or Command Prompt and run:
+   ```bash
+   Existence.py
