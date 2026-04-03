@@ -53,4 +53,12 @@ To find the **"Original File"** of truth, look for the system that has:
 | :--- | :--- |
 | **Creator** | Hard systems need a designer; humans can't be copied. |
 | **One Boss** | Nature works in one direction; many bosses would fight. |
-| **Sadness** | Life is a
+| **Sadness** | Life is a **Test**; the "Teacher" stays quiet during the exam. |
+| **Purpose** | The **GPS (Religion)** shows the map so you don't get lost. |
+| **Many Religions** | People edited the rules; find the original. |
+
+---
+
+## 🚀 Run the Analysis
+To see this logic work as a computer script, view the file here:
+**[Existence.py](./Existence.py)**
