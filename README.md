@@ -12,7 +12,6 @@
 ---
 
 ### 🗺️ Visual Framework
-*(Upload your infographic image to the repo and link it here)*
 ![System Design of Life Framework](system_design_of_life.png)
 
 ---
@@ -22,22 +21,22 @@
 
 ---
 
-### 🕹️ The 5-Level Architecture
+## 🕹️ The 5-Level Architecture
 
-* **L1: Is there a Creator?** 🛠️  
-    Think about your **Phone**. Someone obviously made it. Now look at a **Human**. We are way more complex, yet no human can "create" another person from scratch. That’s why when someone dies, we feel so much loss—because we know no one can ever "re-make" that person. Only a **Creator** can design life.
+### `LEVEL 1` : Is there a Creator? 🛠️
+Think about your **Phone**. Someone obviously made it. Now look at a **Human**. We are way more complex, yet no human can "create" another person from scratch. That’s why when someone dies, we feel so much loss—because we know no one can ever "re-make" that person. Only a **Creator** can design life.
 
-* **L2: If there is a Creator, should it be one or many?** 🏗️  
-    Everything in nature moves in **one direction**. The sun, the earth's spin, and the seasons are like a perfect clock. If there were many creators, they would fight and the system would crash. Logic says one creator is the only way to keep everything in sync.
+### `LEVEL 2` : If there is a Creator, should it be one or many? 🏗️
+Everything in nature moves in **one direction**. The sun, the earth's spin, and the seasons are like a perfect clock. If there were many creators, they would fight and the system would crash. Logic says one creator is the only way to keep everything in sync.
 
-* **L3: If there is a Creator, why is there evil and suffering?** ⚖️  
-    Why doesn't God just "save" everyone? Because life is a **Test**. If God stopped every bad person or fixed every problem instantly, the test would be "spoilt." It’s like a teacher: they stay quiet during the exam so you can show your true character. Suffering is part of the **Difficulty Level** to see who stays sincere.
+### `LEVEL 3` : If there is a Creator, why is there evil and suffering? ⚖️
+Why doesn't God just "save" everyone? Because life is a **Test**. If God stopped every bad person or fixed every problem instantly, the test would be "spoilt." It’s like a teacher: they stay quiet during the exam so you can show your true character. Suffering is part of the **Difficulty Level** to see who stays sincere.
 
-* **L4: If there is a Creator, what is the purpose of a religion?** 🧭  
-    Your heart is like a **Compass**—it shows you the direction, but not the road. You need a **GPS (Religion)** to see the Map and avoid the "cliffs." Without the Official Map, everyone is just guessing (**agak agak**).
+### `LEVEL 4` : If there is a Creator, what is the purpose of a religion? 🧭
+Your heart is like a **Compass**—it shows you the direction, but not the road. You need a **GPS (Religion)** to see the Map and avoid the "cliffs." Without the Official Map, everyone is just guessing (**agak agak**).
 
-* **L5: Why are there so many religions?** 📚  
-    One Boss, but many religions? This is part of the test. Over time, humans changed the rules or added their own ideas. These are like **bad copies** of the original. The test is to see who is sincere enough to find the **original version**.
+### `LEVEL 5` : Why are there so many religions? 📚
+One Boss, but many religions? This is part of the test. Over time, humans changed the rules or added their own ideas. These are like **bad copies** of the original. The test is to see who is sincere enough to find the **original version**.
 
 ---
 
