@@ -1,8 +1,6 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # 🛰️ Project: The System Design of Life (v21.0)
 
-**The Logic:** Life isn't a series of random accidents. It is a fair, purposeful "Operating System" built to help you upgrade your character and find the truth.
+**The Logic:** Life is not just a bunch of accidents. It is an "Operating System" made to help you improve yourself and find the truth.
 
 ---
 
@@ -11,65 +9,57 @@
 
 ---
 
-### 🗺️ Visual Framework
-![System Design of Life Framework](SystemLogic.png)
-
----
-
 ### 🇸🇬 The "Singapore Simple" Summary
 > **In short:** Life isn't about being lucky or unlucky (**heng or suay**). It’s a system built to help you level up your heart and find the real **Source Code** of why we are here.
 
 ---
 
-## 🕹️ The 5-Level Architecture
+## 🕹️ The 5-Level Plan
 
 ### `LEVEL 1` : Is there a Creator? 🛠️
-Think about your **Phone**. Someone obviously made it. Now look at a **Human**. We are way more complex, yet no human can "create" another person from scratch. That’s why when someone dies, we feel so much loss—because we know no one can ever "re-make" that person. Only a **Creator** can design life.
+Think about your **Phone**. Someone clearly made it. Now look at a **Human**. We are much more complex. No human can "make" another person from zero. When someone dies, we feel sad because we know no one can ever "re-build" that person. Only a **Creator** could design something this complex.
+[attachment_0](attachment)
 
-### `LEVEL 2` : If there is a Creator, should it be one or many? 🏗️
-Everything in nature moves in **one direction**. The sun, the earth's spin, and the seasons are like a perfect clock. If there were many creators, they would fight and the system would crash. Logic says one creator is the only way to keep everything in sync.
+### `LEVEL 2` : One Creator or many? 🏗️
+Nature moves in **one direction**. The sun, the earth's spin, and the seasons work like a perfect clock. If there were many bosses, they would fight and the system would crash. Logic says one creator is the only way to keep everything working together.
+[attachment_1](attachment)
 
-### `LEVEL 3` : If there is a Creator, why is there evil and suffering? ⚖️
-Why doesn't God just "save" everyone? Because life is a **Test**. If God stopped every bad person or fixed every problem instantly, the test would be "spoilt." It’s like a teacher: they stay quiet during the exam so you can show your true character. Suffering is part of the **Difficulty Level** to see who stays sincere.
+### `LEVEL 3` : Why is there sadness and pain? ⚖️
+Why doesn't God just fix everything? Because life is a **Test**. If God stopped every bad thing or fixed every problem right away, it wouldn't be a test anymore. Think of a teacher: they stay quiet during the exam so you can show your true character.
 
-### `LEVEL 4` : If there is a Creator, what is the purpose of a religion? 🧭
-Your heart is like a **Compass**—it shows you the direction, but not the road. You need a **GPS (Religion)** to see the Map and avoid the "cliffs." Without the Official Map, everyone is just guessing (**agak agak**).
+### `LEVEL 4` : What is the point of religion? 🧭
+Your heart is like a **Compass**—it shows you the general direction, but not the actual road. You need a **GPS (Religion)** to see the map and avoid the "cliffs." Without the map, everyone is just guessing (**agak agak**).
+
 
 ### `LEVEL 5` : Why are there so many religions? 📚
-One Boss, but many religions? This is part of the test. Over time, humans changed the rules or added their own ideas. These are like **bad copies** of the original. The test is to see who is sincere enough to find the **original version**.
+If there is only one Boss, why are there so many religions? This is part of the test. Over time, people changed the rules or added their own ideas. These are like **bad copies** of the original. The test is to see who is sincere enough to find the **original version**.
 
 ---
 
 ### 📜 The Conclusion
 
-To find the **"Gold Master"** file of truth, look for the system with:
-* **One Creator** (No partners or "3 in 1").
-* **One Language & One Direction** (Total unity for all races).
-* **Zero Edits** (No human changes. Proved by **Oral Memorization** from cover to cover by millions of people).
-* **Scientific Miracles** (Facts about the world no human knew 1,400 years ago).
+To find the **"Original File"** of truth, look for the system that has:
+* **One Creator Only** (No partners).
+* **One Language & One Direction** (Unity for everyone).
+* **Zero Edits** (No changes by humans. Proved by millions of people who have memorized it perfectly).
+* **Science Facts** (Facts about the world that no human knew 1,400 years ago).
 
-> **Based on the logic from L1 to L5, I believe Islam is the truth. It is the only system that stays 100% original and matches the scientific miracles of the universe.**
+> **Based on this logic, I believe Islam is the truth. It is the only system that stays 100% original and matches the science of the universe.**
 
 ---
 
 ### 🔄 Quick Logic Summary
 
-| Component | Logic |
+| Component | Simple Logic |
 | :--- | :--- |
-| **Creator** | Complex systems need a Designer; humans are un-copyable. |
-| **One vs Many** | One direction (Clock/Seasons) = One Lead Architect. |
-| **Evil/Suffering** | Life is a **Test**; God doesn't "cheat" the test by stopping it. |
-| **Purpose** | The **GPS (Religion)** shows the road so you don't guess. |
-| **Many Religions** | Humans changed the original rules; look for the original. |
+| **Creator** | Hard systems need a designer; humans can't be copied. |
+| **One Boss** | Nature works in one direction; many bosses would fight. |
+| **Sadness** | Life is a **Test**; the "Teacher" stays quiet during the exam. |
+| **Purpose** | The **GPS (Religion)** shows the map so you don't get lost. |
+| **Many Religions** | People edited the rules; you must find the original. |
 
 ---
 
-### 🚀 How to Run the Analysis
-To see this logic run as a structured script, follow these steps:
-
-1. **Prerequisites:** Ensure you have [Python 3](https://www.python.org/downloads/) installed.
-2. **Download:** Save the `Existence.py` file to your computer.
-3. **Execute:** Open your Terminal or Command Prompt and run:
- 
-   ```bash
-   Existence.py
+### 🚀 Run the Analysis
+To see this logic work as a computer script, run this file:
+**[Existence.py](./Existence.py)**
