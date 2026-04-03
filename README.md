@@ -68,7 +68,8 @@ To find the **"Gold Master"** file of truth, look for the system with:
 To see this logic run as a structured script, follow these steps:
 
 1. **Prerequisites:** Ensure you have [Python 3](https://www.python.org/downloads/) installed.
-2. **Download:** Save the `system_design_of_life.py` file to your computer.
+2. **Download:** Save the `Existence.py` file to your computer.
 3. **Execute:** Open your Terminal or Command Prompt and run:
+ 
    ```bash
    Existence.py
