@@ -22,7 +22,7 @@ Think about your **Phone**. Someone clearly made it. Now look at a **Human**. We
 
 ### `LEVEL 2` : One Creator or many? 🏗️
 Nature moves in **one direction**. The sun, the earth's spin, and the seasons work like a perfect clock. If there were many bosses, they would fight and the system would crash. Logic says one creator is the only way to keep everything working together.
-[attachment_1](attachment)
+
 
 ### `LEVEL 3` : Why is there sadness and pain? ⚖️
 Why doesn't God just fix everything? Because life is a **Test**. If God stopped every bad thing or fixed every problem right away, it wouldn't be a test anymore. Think of a teacher: they stay quiet during the exam so you can show your true character.
