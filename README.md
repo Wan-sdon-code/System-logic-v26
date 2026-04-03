@@ -2,7 +2,9 @@
 
 # 🛰️ Project: The System Design of Life (v21.0)
 
-**The Logic:** Life isn't a series of random accidents. It is a fair, purposeful "Operating System" built to help you upgrade your character and find the truth.
+**The Logic:** 
+
+Life isn't a series of random accidents. It is a fair, purposeful "Operating System" built to help you upgrade your character and find the truth.
 
 ---
 
