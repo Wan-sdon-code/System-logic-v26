@@ -1,36 +1,39 @@
-# Existence.py
-# Version 21.0 - Failsafe Edition
+import time
 
-def run_analysis():
-    print("--- STARTING SYSTEM ANALYSIS ---")
+def run_system_check():
+    print("--- TruthOS v21.0: System Design of Life ---")
+    time.sleep(1)
 
-    # Level 1: Complexity
-    human_complex = True
-    if human_complex == True:
-        print("Level 1: Human complexity needs a Creator.")
+    levels = [
+        ("LEVEL 1", "Creator", "Phone has a maker; Humans are 100x more complex. Soul = Hardware."),
+        ("LEVEL 2", "One Boss", "Nature moves in 1 direction. Many bosses = System crash."),
+        ("LEVEL 3", "The Exam", "The Teacher stays quiet during the exam. Pain is a test."),
+        ("LEVEL 4", "The GPS", "Heart is just a compass. Religion is the GPS map. Don't 'agak agak'."),
+        ("LEVEL 5", "Versions", "One core code, different languages. Race to do good. No 'Force Install'.")
+    ]
 
-    # Level 2: Stability
-    bosses = 1
-    if bosses == 1:
-        print("Level 2: One Boss detected. System is stable.")
+    for lvl, title, logic in levels:
+        print(f"\n[{lvl}] {title}")
+        print(f">> {logic}")
+        time.sleep(0.5)
 
-    # Level 3: The Test
-    is_exam = True
-    if is_exam == True:
-        print("Level 3: Life is an exam. The Teacher is quiet.")
+    print("\n" + "="*40)
+    print("FINAL ANALYSIS: Finding the 'Original File'")
+    print("="*40)
+    
+    checks = [
+        "One Creator (No partners)",
+        "One Message, Language & Direction (Unity)",
+        "Zero Edits (Memorized perfectly)",
+        "Science Facts (Proven data)"
+    ]
 
-    # Level 4: Navigation
-    has_gps = True
-    if has_gps == True:
-        print("Level 4: GPS found. No more guessing (agak agak).")
+    for check in checks:
+        print(f"[✔] {check}")
 
-    # Level 5: Version Control
-    # Using simple + instead of f-strings for safety
-    original_file = "Islam"
-    print("Level 5: Found Original File -> " + original_file)
-
-    print("\n--- ANALYSIS COMPLETE ---")
-    print("Logic: One Creator, One Direction, Zero Edits.")
+    print("\n>>> RESULT: Islam is the 100% Original OS.")
+    print(">>> Status: Matches the Science of the Universe.")
+    print("="*40)
 
 if __name__ == "__main__":
-    run_analysis()
+    run_system_check()
