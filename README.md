@@ -4,14 +4,13 @@
 
 ---
 
-### ⚠️ Personal Observation
-This is my own research and logic. No offense is intended to any individual, path, or organization. 
-**Built with the help of Gemini.**
+![SystemLogic](./SystemLogic.png)
 
 ---
 
-### 🇸🇬 The "Singapore Simple" Summary
-Life isn't about being lucky or unlucky (**heng or suay**). It is a structured system built to level up your heart and find the "Admin."
+### ⚠️ Personal Observation
+This is my own research and logic. No offense is intended to any individual, path, or organization. 
+**Built with the help of Gemini.**
 
 ---
 
@@ -23,7 +22,7 @@ Life isn't about being lucky or unlucky (**heng or suay**). It is a structured s
 | **02** | **Free Will** | The "Admin" stays hidden. If He were visible, you'd act out of fear, not character. |
 | **03** | **One Boss** | Multiple bosses = System crash. One Boss = Universal stability. |
 | **04** | **The Test** | Suffering is an exam. The Teacher stays quiet until the paper is finished. |
-| **05** | **The GPS** | Your heart is a compass; **Religion** is the GPS map that prevents you from going **agak agak**. |
+| **05** | **The GPS** | Your heart is a compass; **Religion** is the GPS map that prevents you from just guessing. |
 | **06** | **Updates** | Same "Core Code," different versions for different times. The goal: **Race to do good.** |
 
 ---
