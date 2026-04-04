@@ -36,7 +36,7 @@ Your heart is like a **Compass**—it shows you the general direction, but not t
 It’s a **System Feature**, not a bug:
 * **Different Times:** The same message was sent to everyone, just in different ways to fit different times.
 * **The Test:** We are different to see if we can live in peace and "Race to do Good."
-* **Your Choice:** You cannot force faith. It only works if you choose it yourself.
+* **Your Choice:** You cannot force faith. It only works if you choose it yourself.(Free-Will)
 
 ---
 
