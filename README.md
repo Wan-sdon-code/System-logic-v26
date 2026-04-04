@@ -24,7 +24,7 @@ Life isn't about being lucky or unlucky (**heng or suay**). It is a structured s
 Think about your **Phone**. Someone clearly made it. Now look at a **Human**. We are way more complex. No human can "make" another person from zero. When someone dies, we feel sad because we know no one can ever "re-build" that person. Logic says a **Creator** designed this hardware.
 
 ### `STEP 2` : Why can’t we see God? 👁️
-If the "Admin" stood right in front of you, you would only act good because you were scared. This would defeat the purpose of a test. To see your true character, the Boss stays hidden. If God were visible, there would be no choice—everyone would be forced into one religion. Being hidden allows for **Free Will**, giving you the freedom to choose the truth yourself.
+If the "Admin" stood right in front of you, you would only act good because you were scared. This would defeat the purpose of a test. To see your true character, the "Admin" stays hidden. If God were visible, there would be no choice—everyone would be forced into one religion. Being hidden allows for **Free Will**.
 
 ### `STEP 3` : If there is a Creator, how many are there? 🏗️
 Nature moves in **one direction**. The sun, the earth's spin, and the seasons work like a perfect clock. If there were many bosses, they would disagree, and the system would crash. Logic says **One Boss** is the only way to keep the universe stable.
