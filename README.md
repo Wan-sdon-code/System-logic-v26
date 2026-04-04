@@ -1,18 +1,16 @@
 # 🛰️ Project: The System Design of Life (v21.0)
 
-> **The Logic:** Life is not just a bunch of accidents. It is an "Operating System" designed to help you improve yourself and find the truth.
+> **The Logic:** Life is not a series of accidents. It is a **Designed Operating System** built to help you find the "Source Code" of truth.
 
 ---
 
-![System Logic](./SystemLogic.png)
-
 ### ⚠️ Personal Observation
-> This is just my own research and opinion. I respect that everyone has their own way of thinking and their own path.
+This is my own research and logic. I respect everyone’s individual path and way of thinking.
 
 ---
 
 ### 🇸🇬 The "Singapore Simple" Summary
-**In short:** Life isn't about being lucky or unlucky (**heng or suay**). It’s a system built to help you level up your heart and find the real **Source Code** of why we are here.
+Life isn't about being lucky or unlucky (**heng or suay**). It is a structured system built to help you level up your heart and find the real reason why we are here.
 
 ---
 
@@ -30,16 +28,18 @@ Why doesn't God just fix everything? Because life is a **Test**. If God stopped 
 ### `LEVEL 4` : What is the point of religion? 🧭
 Your heart is like a **Compass**—it shows you the general direction, but not the actual road. You need a **GPS (Religion)** to see the map and avoid the "cliffs." Without the map, everyone is just guessing (**agak agak**).
 
-### `LEVEL 5` : Why are there so many religions? 📚
-If there is only one Boss, why are there so many religions? This is part of the test. Over time, people changed the rules or added their own ideas. These are like **bad copies** of the original. The test is to see who is sincere enough to find the **original version**.
+### `LEVEL 5` : Why are there so many religions? 🌐
+It’s a **System Feature**, not a bug:
+* **Different Times:** The same message was sent to everyone, just in different ways to fit different times.
+* **The Test:** We are different to see if we can live in peace and "Race to do Good."
+* **Your Choice:** You cannot force faith. It only works if you choose it yourself.
 
 ---
 
 ### 📜 The Conclusion
-
 To find the **"Original File"** of truth, look for the system that has:
 * **One Creator Only** (No partners).
-* **One Language & One Direction** (Unity for everyone).
+* **One Message, One Language & One Direction** (Unity for everyone).
 * **Zero Edits** (No changes by humans; memorized perfectly by millions).
 * **Science Facts** (Facts about the world that no human knew 1,400 years ago).
 
@@ -55,10 +55,10 @@ To find the **"Original File"** of truth, look for the system that has:
 | **One Boss** | Nature works in one direction; many bosses would fight. |
 | **Sadness** | Life is a **Test**; the "Teacher" stays quiet during the exam. |
 | **Purpose** | The **GPS (Religion)** shows the map so you don't get lost. |
-| **Many Religions** | People edited the rules; find the original. |
+| **Diversity** | One Core Code, many versions. **Race to do good.** |
 
 ---
 
 ## 🚀 Run the Analysis
-To see this logic work as a computer script, view the file here:
+To see this logic as a script, view the file here:
 **[Existence.py](./Existence.py)**
