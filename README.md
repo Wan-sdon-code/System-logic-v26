@@ -4,7 +4,7 @@
 
 ---
 
-![System Logic](./SystemLogic.png)
+[SystemLogic.png](./SystemLogic.png)
 
 ---
 
@@ -18,25 +18,28 @@ Life isn't about being lucky or unlucky (**heng or suay**). It is a structured s
 
 ---
 
-## 🕹️ The 5-Level Plan
+## 🕹️ The 6-Step Logic
 
-### `LEVEL 1` : Is there a Creator? 🛠️
-Think about your **Phone**. Someone clearly made it. Now look at a **Human**. We are much more complex. No human can "make" another person from zero. When someone dies, we feel sad because we know no one can ever "re-build" that person. Only a **Creator** could design something this complex.
+### `STEP 1` : Is there a Creator? 🛠️
+Think about your **Phone**. Someone clearly made it. Now look at a **Human**. We are way more complex. No human can "make" another person from zero. When someone dies, we feel sad because we know no one can ever "re-build" that person. Logic says a **Creator** designed this hardware.
 
-### `LEVEL 2` : One Creator or many? 🏗️
-Nature moves in **one direction**. The sun, the earth's spin, and the seasons work like a perfect clock. If there were many bosses, they would fight and the system would crash. Logic says one creator is the only way to keep everything working together.
+### `STEP 2` : Why can’t we see God? 👁️
+If the "Admin" stood right in front of you, you would only act good because you were scared. This would defeat the purpose of a test. To see your true character, the Boss stays hidden. If God were visible, there would be no choice—everyone would be forced into one religion. Being hidden allows for **Free Will**, giving you the freedom to choose the truth yourself.
 
-### `LEVEL 3` : Why is there sadness and pain? ⚖️
-Why doesn't God just fix everything? Because life is a **Test**. If God stopped every bad thing or fixed every problem right away, it wouldn't be a test anymore. Think of a teacher: they stay quiet during the exam so you can show your true character.
+### `STEP 3` : If there is a Creator, how many are there? 🏗️
+Nature moves in **one direction**. The sun, the earth's spin, and the seasons work like a perfect clock. If there were many bosses, they would disagree, and the system would crash. Logic says **One Boss** is the only way to keep the universe stable.
 
-### `LEVEL 4` : What is the point of religion? 🧭
-Your heart is like a **Compass**—it shows you the general direction, but not the actual road. You need a **GPS (Religion)** to see the map and avoid the cliffs. Without the map, everyone is just guessing (**agak agak**).
+### `STEP 4` : If there is a Creator, why is there suffering? ⚖️
+Why doesn't God just fix everything? Because life is a **Test**. If God stopped every bad thing immediately, it wouldn't be an exam anymore. Like a teacher during a math paper, the "Designer" stays quiet so you can show your true character and patience.
 
-### `LEVEL 5` : Why are there so many religions? 🌐
+### `STEP 5` : If there is a Creator, what is the point of religion? 🧭
+Your heart is like a **Compass**—it shows you the general direction (good vs. evil), but not the actual road. You need **Religion (The GPS)** to see the map and avoid the cliffs. Without the map, everyone is just guessing (**agak agak**).
+
+### `STEP 6` : If there is a religion, why are there so many? 🌐
 It’s a **System Feature**, not a bug:
-* **Different Times:** The same message was sent to everyone, just in different ways to fit different times.
-* **The Test:** We are different to see if we can live in peace and "Race to do Good."
-* **Your Choice:** You cannot force faith. It only works if you choose it yourself.(Free-Will)
+* **Different Times:** The Boss sent the same "Core Code" to everyone, just in different versions to fit different times and cultures.
+* **The Race:** Diversity exists to see if we can live in peace and **"Race to do Good."**
+* **The Choice:** No forced installs. The OS only accepts faith that is chosen sincerely.
 
 ---
 
@@ -47,7 +50,7 @@ To find the **"Original File"** of truth, look for the system that has:
 * **Zero Edits** (No changes by humans; memorized perfectly by millions).
 * **Science Facts** (Facts about the world that no human knew 1,400 years ago).
 
-> **Based on this logic, I believe Islam is the truth. It is the only system that stays 100% original and matches the science of the universe.**
+> **Based on this system check, I believe Islam is the truth. It is the only OS that stays 100% original and matches the science of the universe.**
 
 ---
 
@@ -55,8 +58,9 @@ To find the **"Original File"** of truth, look for the system that has:
 
 | Component | Simple Logic |
 | :--- | :--- |
-| **Creator** | Hard systems need a designer; humans can't be copied. |
-| **One Boss** | Nature works in one direction; many bosses would fight. |
-| **Sadness** | Life is a **Test**; the "Teacher" stays quiet during the exam. |
-| **Purpose** | The **GPS (Religion)** shows the map so you don't get lost. |
+| **Creator** | Complex systems need a designer. |
+| **Visibility** | Visible Boss = No test. Hidden Admin allows for **Free Will**. |
+| **One Boss** | Many bosses = System crash. |
+| **Suffering** | The "Teacher" stays quiet during the exam. |
+| **Purpose** | Use the **GPS (Religion)** so you don't get lost. |
 | **Diversity** | One Core Code, many versions. **Race to do good.** |
