@@ -4,12 +4,6 @@
 
 ---
 
-### ⚠️ Personal Observation
-This is my own research and logic. No offense is intended to any individual, path, or organization.  
-**Built with the help of Gemini.**
-
----
-
 ## 🕹️ The 6-Step System Logic
 
 | Step | Component | Logic |
@@ -34,6 +28,15 @@ To find the **Original File** of truth, look for the system with these **5 Prope
 5. **Proven Science:** Facts no human knew 1,400 years ago.
 
 > **System Check:** Based on these logs, **Islam** is the only OS that remains 100% original, treats all humans as equals, allows a direct line to God, and aligns with the science of the universe. It acknowledges all previous "Updates" while serving as the Final Stable Version.
+
+---
+
+### ⚠️ Disclaimer
+This document is for educational and research purposes only. The "System Design" approach is a logical framework used to analyze philosophical concepts and is not intended to offend any individual, path, or organization.
+
+### ✍️ Credits
+* **Research & Logic:** [Wansaidon]
+* **Structure & Drafting:** Gemini AI
 
 ---
 
