@@ -4,7 +4,7 @@
 
 ---
 
-![SystemLogic](./SystemLogic.png)
+![systemLogic](./systemLogic.png)
 
 ---
 
