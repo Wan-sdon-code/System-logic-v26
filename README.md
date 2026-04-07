@@ -17,7 +17,7 @@
 | Step | Component | The "Why" Logic |
 | :--- | :--- | :--- |
 | **01** | **The Origin** | **Why a Creator?** You never see code write itself. A phone needs a designer; a universe with precise laws (gravity, DNA) needs a **Root Coder**. |
-| **02** | **The Stealth** | **Why the Silence?** If the "Admin" was visible 24/7, everyone would obey out of fear. To test your **Free Will** and true character, the Admin stays hidden. |
+| **02** | **The Stealth** | **Why hidden?** If the "Admin" was visible 24/7, everyone would obey out of fear. To test your **Free Will** and true character, the Admin stays hidden. |
 | **03** | **The Unity** | **Why Only One?** If a ship has two captains giving different orders, it sinks. One God = One Set of Laws = Universal Stability. |
 | **04** | **The Stress-Test** | **Why Suffering?** Hard times are like "Stress Tests" for a computer. They aren't mistakes; they are just tests to make your soul stronger. |
 | **05** | **The Documentation** | **Why Religion?** You don't use a new phone without checking the manual. It's the **"User Guide"** so you don't make mistakes in life. |
