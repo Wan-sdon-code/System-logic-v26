@@ -4,35 +4,38 @@
 
 ---
 
-## 🕹️ The 6-Step System Logic
+## 📜 Safety Code (The "Pre-Flight" Check)
 
-| Step | Component | Logic |
-| :--- | :--- | :--- |
-| **01** | **The Creator** | A phone has a designer. A human (complex hardware) needs one too. |
-| **02** | **Free Will** | The "Admin" stays hidden to test character, not fear. |
-| **03** | **One Boss** | Multiple bosses = System crash. One Boss = Universal stability. |
-| **04** | **The Test** | Suffering is an exam. The Teacher stays quiet during the test. |
-| **05** | **The Manual** | **Why Religion?** You wouldn't use software without a guide. This is the "How-To" for the soul. |
-| **06** | **The Versions** | **Why many?** Updates for different times. Diversity is a test to see who does the most good. |
+* **Fresh Start:** Don't just follow what you were taught as a kid. Use your own brain to check if the logic actually makes sense.
+* **The Only Boss:** Only the Creator is in charge. Do not give "God-like" power to any human, idol, or middle-man.
+* **Original Copy:** If a guide has been changed or edited by people over time, it’s not the original anymore. Only trust the one with **Zero Changes**.
 
 ---
 
-## 📜 The Conclusion: Finding the "Original OS"
+## 🕹️ The 6-Step System Logic (The "Why")
 
-To find the **Original File** of truth, look for the system with these **5 Properties**:
+| Step | Component | The "Why" Logic |
+| :--- | :--- | :--- |
+| **01** | **The Origin** | **Why a Creator?** You never see code write itself. A phone needs a designer; a universe with precise laws (gravity, DNA) needs a **Root Coder**. |
+| **02** | **The Stealth** | **Why the Silence?** If the "Admin" was visible 24/7, everyone would obey out of fear. To test your **Free Will** and true character, the Admin stays hidden. |
+| **03** | **The Unity** | **Why Only One?** If a ship has two captains giving different orders, it sinks. One God = One Set of Laws = Universal Stability. |
+| **04** | **The Stress-Test** | **Why Suffering?** Hard times are like "Stress Tests" for a computer. They aren't mistakes; they are just tests to make your soul stronger. |
+| **05** | **The Documentation** | **Why Religion?** You don't use a new phone without checking the manual. It's the **"User Guide"** so you don't make mistakes in life. |
+| **06** | **The Version Test** | **Why many religions?** Multiple versions are a test of your logic. Different "updates" were sent for different times to see who would look for the **Final Stable Version** that remains unedited. |
 
-1. **Pure Unity:** One Creator. No partners.
-2. **Zero Edits:** Memorized word-for-word. No changes.
-3. **Total Equality:** No race or class is better. All are equal.
-4. **Direct Line:** No middlemen. Talk to the Creator directly.
-5. **Proven Science:** Facts no human knew 1,400 years ago.
+---
 
-> **System Check:** Based on these logs, **Islam** is the only OS that remains 100% original, treats all humans as equals, allows a direct line to God, and aligns with the science of the universe. It acknowledges all previous "Updates" while serving as the Final Stable Version.
+## 📜 The Conclusion: Simple Check
+
+1.  **Original is Best:** Truth has to be 100% real. If people edited the guide, it’s not the truth anymore.
+2.  **Clear the Lag:** The **Final Version** (Islam) stops the confusion. It gives you a direct link to the Creator without any mistakes.
+
+> **System Check:** Islam is 100% original, treats everyone as equals, and fits with science. It is the final, perfect version of the truth.
 
 ---
 
 ### ⚠️ Disclaimer
-This document is for educational and research purposes only. The "System Design" approach is a logical framework used to analyze philosophical concepts and is not intended to offend any individual, path, or organization.
+This document is for educational and research purposes only. The "System Design" approach is a logical framework used to analyze philosophical concepts.
 
 ### ✍️ Credits
 * **Research & Logic:** [Wansaidon]
@@ -40,6 +43,6 @@ This document is for educational and research purposes only. The "System Design"
 
 ---
 
-**[ SOURCE CODE ]** 🔗 [Existence.py](./Existence.py)
+**[ SOURCE CODE ]** 🔗 [existence.py](./existence.py)
 
 **[ END SCRIPT ]**
