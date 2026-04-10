@@ -16,21 +16,22 @@
 
 | Step | Component | The "Why" Logic |
 | :--- | :--- | :--- |
-| **01** | **The Origin** | **Why a Creator?** You never see code write itself. A phone needs a designer; a universe with precise laws (gravity, DNA) needs a **Root Coder**. |
-| **02** | **The Stealth** | **Why hidden?** If the "Admin" was visible 24/7, everyone would obey out of fear. To test your **Free Will** and true character, the Admin stays hidden. |
+| **01** | **The Origin** | **Why a Creator?** You never see code write itself. A phone needs a designer; a universe with precise laws needs a **Root Coder**. |
+| **02** | **The Stealth** | **Why hidden?** If the "Admin" was visible 24/7, everyone would obey out of fear. To test your **Free Will**, the Admin stays hidden. |
 | **03** | **The Unity** | **Why Only One?** If a ship has two captains giving different orders, it sinks. One God = One Set of Laws = Universal Stability. |
-| **04** | **The Stress-Test** | **Why Suffering?** Hard times are like "Stress Tests" for a computer. They aren't mistakes; they are just tests to make your soul stronger. |
-| **05** | **The Documentation** | **Why Religion?** You don't use a new phone without checking the manual. It's the **"User Guide"** so you don't make mistakes in life. |
-| **06** | **The Version Test** | **Why many religions?** Multiple versions are a test of your logic. Different "updates" were sent for different times to see who would look for the **Final Stable Version** that remains unedited. |
+| **04** | **The Stress-Test** | **Why Suffering?** Hard times are like "Stress Tests" for a computer. They aren't mistakes; they are tests to make your soul stronger. |
+| **05** | **The Documentation** | **Why Religion?** You don't use a new phone without checking the manual. It's the **"User Guide"** so you don't make mistakes. |
+| **06** | **The Version Test** | **Why many religions?** Multiple versions test your logic. Different "updates" were sent to see who would look for the **Final Stable Version**. |
 
 ---
 
 ## 📜 The Conclusion: Simple Check
 
-1.  **Original is Best:** Truth has to be 100% real. If people edited the guide, it’s not the truth anymore.
-2.  **Clear the Lag:** The **Final Version** (Islam) stops the confusion. It gives you a direct link to the Creator without any mistakes.
+1. **Original is Best:** Truth has to be 100% real. The evidence for the final guide is **Oral Memorization**—it has been memorized heart-to-heart by millions for centuries, so not a single letter can be changed or faked.
+2. **Clear the Lag:** The **Final Version** (Islam) stops the confusion. It gives you a direct link to the Creator without any human errors or edits.
+3. **The Authentication:** At the end of the day, it's about **Hidayah**. Logic gets you to the door, but only the right key can open the lock.
 
-> **System Check:** Islam is 100% original, treats everyone as equals, and fits with science. It is the final, perfect version of the truth.
+> *"For indeed, it is not the eyes that are blind, but it is the hearts which are within the breasts." (Quran 22:46)*
 
 ---
 
@@ -40,14 +41,6 @@ This document is for educational and research purposes only. The "System Design"
 ### ✍️ Credits
 * **Research & Logic:** [Wansaidon]
 * **Structure & Drafting:** Gemini AI
-
----
-
-### 🐍 Python Version
-You can run this guide as a script in your terminal.
-
-**Raw Script Link:**
-[Download Existence.py (Raw)](Existence.pyy)
 
 ---
 
