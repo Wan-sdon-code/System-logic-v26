@@ -6,9 +6,14 @@
 
 ## 📜 SAFETY CODE (The "Pre-Flight" Check)
 
-* **FRESH START:** Don't just follow what you were taught as a kid. Use your own brain to check if the logic actually makes sense.
-* **THE ONLY BOSS:** Only the Creator is in charge. Do not give "God-like" power to any human, idol, or middle-man.
-* **ORIGINAL COPY:** If a guide has been changed or edited by people over time, it’s not the original anymore. Only trust the one with **Zero Changes**.
+### **1. Fresh Start**
+Don't just follow what you were taught as a kid. Use your own brain to check if the logic actually makes sense.
+
+### **2. The Only Boss**
+Only the Creator is in charge. Do not give "God-like" power to any human, idol, or middle-man.
+
+### **3. Original Copy**
+If a guide has been changed or edited by people over time, it’s not the original anymore. Only trust the one with **Zero Changes**.
 
 ---
 
