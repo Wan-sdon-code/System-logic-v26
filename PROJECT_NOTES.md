@@ -1,105 +1,58 @@
 # System Design of Life — My Notes
 
-## What is this project?
+## What is it?
 
-This project is about one simple question:
+This project asks one simple question:
 
 **When life doesn't go according to plan, what do you fall back on?**
 
-It encourages people to think about life, purpose, faith and what they believe.
+It encourages people to think about life, purpose and faith.
 
 ---
 
 ## What does my Python do?
 
-The program is very simple:
+The program:
 
-1. Shows the project title.
-2. Asks the user what they fall back on when life gets difficult.
-3. Saves their answer.
-4. Shows their answer back to them.
-5. Gives them four questions to think about.
-6. Ends with a simple message.
-
-The program does **not** tell the user what they must believe.
-
-It simply asks them to think about it.
+1. Asks what the user falls back on when life gets difficult.
+2. Saves their answer.
+3. Shows the answer back to them.
+4. Gives them questions about life and belief to think about.
 
 ---
 
 ## Simple Example
 
-The program asks:
+Python asks:
 
-> **When life gets difficult, what do you fall back on?**
+**What do you fall back on?**
 
-Someone might type:
+User types:
 
 `Family and faith`
 
-Python saves that answer and shows:
+Python shows:
 
 `Your answer: Family and faith`
 
-Then it asks the user to think about:
+---
 
-* Why am I here?
-* What gives my life meaning?
-* Do I believe in a Creator?
-* What do I actually believe — and why?
+## How does it work?
+
+`input()` → Lets the user type an answer.
+
+`anchor` → Saves the answer.
+
+`f"{anchor}"` → Puts the saved answer into a sentence.
 
 ---
 
-## What does `input()` do?
+## Why Python?
 
-`input()` lets the person using the program type an answer.
-
-In my program:
-
-`anchor = input(...)`
-
-means:
-
-**Ask the question → take the person's answer → save it as `anchor`.**
+It turns the idea into something the user can interact with instead of only reading it.
 
 ---
 
-## What does the `f` do?
+## One-Sentence Explanation
 
-This line:
-
-`print(f"\nYour answer: {anchor}")`
-
-takes whatever the person typed and puts it into the sentence.
-
-For example:
-
-If `anchor` is:
-
-`Family`
-
-Python shows:
-
-`Your answer: Family`
-
----
-
-## Why did I use Python?
-
-I wanted to turn the README idea into a small program someone can interact with.
-
-Instead of only reading the question, the user can answer it themselves.
-
----
-
-## What did I learn?
-
-Python doesn't only have to be used for numbers and data.
-
-It can also take information from a user and respond to what they entered.
-
----
-
-## If Someone Asks Me What This Project Is
-
-> **"It's a small reflection program that asks what you depend on when life gets difficult and gives you some questions about life, purpose and belief to think about."**
+> **"It's a simple program that asks what you depend on when life gets difficult and encourages you to think about life, purpose and faith."**
