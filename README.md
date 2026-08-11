@@ -17,24 +17,19 @@ I'm just someone who looks at life and this universe and thinks:
 
 The universe follows rules.
 
-Gravity works.\
-Nature follows cycles.\
-Our bodies keep running without us thinking about it.
+Gravity works. Nature follows cycles. Our bodies keep running without us
+thinking about it.
 
 And somehow, we're here.
 
-Science has helped us understand an incredible amount about **how**
-things work.
+Science has taught us an incredible amount about **how** things work.
 
-But there are other questions:
+But some questions remain:
 
-> Why does anything exist?
-
-> Does life have a purpose?
-
-> Is there a Creator?
-
-> What happens when this life ends?
+> **Why does anything exist?**\
+> **Does life have a purpose?**\
+> **Is there a Creator?**\
+> **What happens when this life ends?**
 
 I don't pretend to have every answer.
 
@@ -72,7 +67,7 @@ That's when you realise:
 
 ------------------------------------------------------------------------
 
-## ⚓ So What Do You Hold On To?
+## ⚓ What Do You Hold On To?
 
 Family matters.
 
@@ -82,84 +77,56 @@ Money matters.
 
 Professional help matters.
 
-But there are moments when none of them can completely answer:
+But sometimes we're left asking:
 
 > **"Why is this happening?"**
-
-or
 
 > **"How do I accept something I cannot change?"**
 
 That's where I believe **faith can become an anchor**.
 
-Not something that magically fixes your problems.
+Faith doesn't magically solve your problems.
 
-Not an excuse to sit around and wait.
-
-You still work.
-
-You still seek help.
-
-You still go to the doctor.
-
-You still make the phone call.
-
+You still work.\
+You still seek help.\
+You still go to the doctor.\
+You still solve what you can.\
 You still try again.
 
 Faith simply gives you something to hold onto while you do it.
 
 ------------------------------------------------------------------------
 
-## 🧠 You Are Allowed to Question
-
-Faith shouldn't require you to stop thinking.
+## 🧠 Question What You Believe
 
 Maybe you grew up Muslim.
 
 Maybe Christian, Buddhist or Hindu.
 
-Maybe your family isn't religious at all.
+Maybe you're atheist or agnostic.
 
-Maybe you're not sure what you believe.
+Maybe you honestly don't know.
 
 Whatever your background, ask yourself:
 
 > **"Do I believe this because I've thought about it --- or simply
 > because this is what I grew up with?"**
 
-Read.
+Read. Ask. Compare. Think.
 
-Ask.
+You don't need to solve the meaning of life tonight.
 
-Compare.
+**Tomorrow still got work.** 😂
 
-Question your own assumptions.
+Just start with:
 
-If something is true, honest questions shouldn't be something to fear.
-
-------------------------------------------------------------------------
-
-## 🔍 Start With the Big Questions
-
-You don't need to solve the meaning of life by tonight.
-
-Tomorrow still got work. 😂
-
-Just think about a few things:
-
-**Why is there something instead of nothing?**
+**Why are we here?**
 
 **Could there be a Creator?**
 
-**If there is, what would that Creator be like?**
-
 **Does my life have a purpose?**
 
-**What do different religions actually claim?**
-
-And finally:
-
-> **What do I believe --- and why?**
+**What do I actually believe --- and why?**
 
 Not your parents.
 
@@ -171,7 +138,7 @@ Not social media.
 
 ------------------------------------------------------------------------
 
-## ☪️ Where My Own Search Leads
+## ☪️ Where My Search Leads
 
 For me, it leads to **Islam**.
 
@@ -208,36 +175,7 @@ Yours is something you have to explore for yourself.
 
 ------------------------------------------------------------------------
 
-## 🌏 Maybe You Believe Something Else
-
-Maybe you're Muslim.
-
-Christian.
-
-Buddhist.
-
-Hindu.
-
-Atheist.
-
-Agnostic.
-
-Or:
-
-> **"Bro, honestly I also don't know."**
-
-Fair enough. 😂
-
-I'm not trying to settle thousands of years of philosophy with a GitHub
-README.
-
-That would be quite power. 😂
-
-I only want to leave you with something worth thinking about.
-
-------------------------------------------------------------------------
-
-# 🧭 The Simple Logic
+## 🧭 The Simple Logic
 
 **Question → Think → Learn → Understand What You Believe → Find Your
 Anchor**
@@ -248,9 +186,7 @@ You will still struggle.
 
 You will still make mistakes.
 
-You will still lose things.
-
-There will still be situations you cannot control.
+There will still be things you cannot control.
 
 But perhaps having something deeper than money, work, status or other
 people's approval gives you somewhere to stand when those things
@@ -260,22 +196,12 @@ disappear.
 
 # 💭 One Last Question
 
-One day, life will probably throw you a curveball you didn't prepare
-for.
+I'm not trying to settle thousands of years of religion and philosophy
+with a GitHub README.
 
-Maybe a small one.
+That would be quite power. 😂
 
-Maybe a huge one.
-
-And when that happens, you might discover that the things you normally
-depend on aren't enough.
-
-So don't change your religion because of this README.
-
-Don't suddenly believe in God because some random GitHub page told you
-to.
-
-Just ask yourself:
+I'm only asking you to think about one thing:
 
 > ## **When the things I normally depend on are no longer enough, what do I still have to hold onto?**
 
