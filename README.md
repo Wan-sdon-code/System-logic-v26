@@ -10,8 +10,11 @@ I'm not the most religious person either.
 I'm just someone who looks at life and this universe and thinks:
 
 **There has to be more to all this.**
+---
 
-------------------------------------------------------------------------
+![The System Design of Life](./systemdesign.png)
+
+---
 
 ## 🌌 Ever Thought About It?
 
