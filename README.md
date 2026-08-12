@@ -139,6 +139,9 @@ Not social media.
 
 **You.**
 
+Everyone's answers to those questions will be different.
+For me, here is where my search led...
+
 ------------------------------------------------------------------------
 
 ## ☪️ Where My Search Leads
